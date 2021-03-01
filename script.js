@@ -14,11 +14,8 @@ numArray.forEach(number => {
     select2.append(elem2)
 });
 
-// numbers.forEach(number => {
-//     const tag = document.createElement('option')
-//     const paragraph = document.createTextNode(number)
-//     tag.appendChild(paragraph)
-//     document.getElementById('numbers').append(tag)
-// })
+function addRow(){
+    
+}
 
 
